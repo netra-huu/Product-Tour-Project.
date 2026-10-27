@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product Tour – Production Management Demo
 
 A beginner-friendly full-stack demo based on pages 6–8 of `Product Tour v3.pdf`.
@@ -61,3 +62,7 @@ Keep both terminals running.
 
 ## Notes for the 7-member group
 This ZIP gives you a working foundation for the assigned pages. Before submitting, agree with your sir/group on each member's module and combine everyone’s work. Add real authentication/permissions, tests and validation if your instructor requires them. Do not describe the prototype as the official TranZact system.
+=======
+# Product-Tour-Project.
+Product-tour
+>>>>>>> 57bb43ffe5a5fba0475f53b38b1fdf0d68e5921d
